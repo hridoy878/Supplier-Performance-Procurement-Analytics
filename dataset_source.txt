@@ -1,0 +1,19 @@
+Dataset Name: Procurement KPI Analysis Dataset
+
+Dataset Creator: Shahriar Kabir
+
+Source: Kaggle
+https://www.kaggle.com/datasets/shahriarkabir/procurement-kpi-analysis-dataset/data
+
+Description:
+This dataset contains procurement and supplier performance information, including purchase orders, supplier reliability, delivery delays, compliance, defects, and negotiated pricing.
+
+Key analysis areas:
+
+* Supplier performance and risk
+* Procurement cost and savings
+* Delivery efficiency
+* Defect rates
+* Supplier compliance
+
+Note: The dataset description mentions 700 purchase orders. The CSV imported into this Power BI project contains 777 rows. These figures should be distinguished in the project documentation.
